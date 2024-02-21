@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "question": "What does CSS stand for?",
+      "options": {
+        "A": "Cascading Style Sheets",
+        "B": "Creative Style Sheets",
+        "C": "Colorful Style Sheets",
+        "D": "Computer Style Sheets"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What term refers to the process of ensuring that a website is easily navigable and user-friendly?",
+      "options": {
+        "A": "User Interface Design",
+        "B": "User Experience Design",
+        "C": "Navigation Optimization",
+        "D": "Accessibility Enhancement"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which CSS property is used to change the text color of an element?",
+      "options": {
+        "A": "color",
+        "B": "text-color",
+        "C": "font-color",
+        "D": "text-style"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What unit is used to measure height in CSS?",
+      "options": {
+        "A": "pixels (px)",
+        "B": "percentage (%)",
+        "C": "inches (in)",
+        "D": "em"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which CSS property is used to set the background color of an element?",
+      "options": {
+        "A": "background-color",
+        "B": "color",
+        "C": "background",
+        "D": "bgcolor"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which CSS property is used to control the spacing between lines of text?",
+      "options": {
+        "A": "line-height",
+        "B": "text-spacing",
+        "C": "line-spacing",
+        "D": "text-line"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "In CSS, what does the 'float' property do?",
+      "options": {
+        "A": "Allows an element to be positioned relative to its normal position",
+        "B": "Specifies whether an element should float to the left or right",
+        "C": "Changes the transparency of an element",
+        "D": "Applies a shadow effect to an element"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which CSS property is used to make text bold?",
+      "options": {
+        "A": "font-weight",
+        "B": "text-style",
+        "C": "bold",
+        "D": "text-weight"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What CSS pseudo-class targets links that are being hovered over?",
+      "options": {
+        "A": ":hover",
+        "B": ":active",
+        "C": ":link",
+        "D": ":visited"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which CSS property is used to set the size of the text?",
+      "options": {
+        "A": "text-size",
+        "B": "font-size",
+        "C": "size",
+        "D": "text-scale"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What does the 'display: none;' property do in CSS?",
+      "options": {
+        "A": "Hides an element from the page, but still takes up space",
+        "B": "Completely removes an element from the page layout",
+        "C": "Displays an element as a block-level element",
+        "D": "Displays an element as an inline element"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which CSS property is used to control the order of flexible items?",
+      "options": {
+        "A": "order",
+        "B": "flex-order",
+        "C": "flex",
+        "D": "flex-item"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the correct CSS syntax for targeting all &lt;p&gt; elements?",
+      "options": {
+        "A": "p { }",
+        "B": "&lt;p&gt; { }",
+        "C": ".p { }",
+        "D": "#p { }"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "In CSS, what does the 'position: relative;' property do?",
+      "options": {
+        "A": "Positions an element relative to its normal position in the document",
+        "B": "Positions an element relative to the viewport",
+        "C": "Positions an element absolutely, relative to its closest positioned ancestor",
+        "D": "Positions an element absolutely, relative to the document body"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which CSS property is used to add shadows to elements?",
+      "options": {
+        "A": "shadow",
+        "B": "box-shadow",
+        "C": "text-shadow",
+        "D": "element-shadow"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What does the 'z-index' property control in CSS?",
+      "options": {
+        "A": "The horizontal position of an element",
+        "B": "The vertical position of an element",
+        "C": "The stacking order of elements",
+        "D": "The opacity of an element"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Which CSS property is used to add rounded corners to elements?",
+      "options": {
+        "A": "corner-radius",
+        "B": "rounded-corners",
+        "C": "border-radius",
+        "D": "edge-radius"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "In CSS, what does the 'box-sizing: border-box;' property do?",
+      "options": {
+        "A": "Includes padding and border in the element's total width and height",
+        "B": "Includes margin in the element's total width and height",
+        "C": "Specifies the size of the element's content box",
+        "D": "Specifies the size of the element's border box"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the correct CSS syntax for targeting an element with the ID 'header'?",
+      "options": {
+        "A": "#header { }",
+        "B": ".header { }",
+        "C": "header { }",
+        "D": "&lt;header&gt; { }"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which CSS property is used to specify the font family of text?",
+      "options": {
+        "A": "font-family",
+        "B": "text-font",
+        "C": "typeface",
+        "D": "font-style"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What does the 'overflow: hidden;' property do in CSS?",
+      "options": {
+        "A": "Hides the content of an element that overflows its boundaries",
+        "B": "Displays a scrollbar when the content of an element overflows its boundaries",
+        "C": "Expands the boundaries of an element to fit its content",
+        "D": "Causes an element to be positioned relative to its closest positioned ancestor"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which CSS property is used to specify the width of an element's border?",
+      "options": {
+        "A": "border-width",
+        "B": "border-style",
+        "C": "border-color",
+        "D": "border"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the correct CSS syntax for targeting all elements with the class 'highlight'?",
+      "options": {
+        "A": ".highlight { }",
+        "B": "#highlight { }",
+        "C": "highlight { }",
+        "D": "&lt;highlight&gt; { }"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "In CSS, what does the 'opacity' property control?",
+      "options": {
+        "A": "The size of an element's border",
+        "B": "The transparency of an element",
+        "C": "The color of an element's shadow",
+        "D": "The spacing between lines of text"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which CSS property is used to specify the thickness of an element's border?",
+      "options": {
+        "A": "border-thickness",
+        "B": "border-size",
+        "C": "border-width",
+        "D": "border"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is the correct CSS syntax for targeting the first &lt;p&gt; element within a &lt;div&gt; element?",
+      "options": {
+        "A": "div p:first-child { }",
+        "B": "p:first-of-type { }",
+        "C": "div:first-child p { }",
+        "D": "p:first-child { }"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which CSS property is used to add padding around an element's content?",
+      "options": {
+        "A": "padding",
+        "B": "padding-box",
+        "C": "padding-area",
+        "D": "content-padding"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "In CSS, what does the 'text-decoration: underline;' property do?",
+      "options": {
+        "A": "Adds an underline to text",
+        "B": "Removes any text decoration",
+        "C": "Strikes through text",
+        "D": "Overlines text"
+      },
+      "answer": "A"
+    }
+  ]
+}

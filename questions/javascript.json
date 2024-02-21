@@ -1,0 +1,324 @@
+{
+  "questions": [
+    {
+      "question": "What is JavaScript?",
+      "options": {
+        "A": "A markup language",
+        "B": "A programming language",
+        "C": "A stylesheet language",
+        "D": "A database language"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which keyword is used to declare a variable in JavaScript?",
+      "options": {
+        "A": "var",
+        "B": "let",
+        "C": "const",
+        "D": "int"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What does DOM stand for?",
+      "options": {
+        "A": "Document Object Model",
+        "B": "Data Object Model",
+        "C": "Dynamic Object Model",
+        "D": "Document Oriented Model"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the correct syntax for a single-line comment in JavaScript?",
+      "options": {
+        "A": "// This is a comment",
+        "B": "&lt;!-- This is a comment --&gt;",
+        "C": "' This is a comment",
+        "D": "# This is a comment"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which symbol is used for equality comparison in JavaScript?",
+      "options": {
+        "A": "==",
+        "B": "===",
+        "C": "!=",
+        "D": "!=="
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the purpose of the 'typeof' operator in JavaScript?",
+      "options": {
+        "A": "To determine the type of a variable",
+        "B": "To check if a variable exists",
+        "C": "To compare two variables",
+        "D": "To assign a value to a variable"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'NaN' value in JavaScript?",
+      "options": {
+        "A": "It represents 'Not a Number'",
+        "B": "It represents 'No Argument Needed'",
+        "C": "It represents 'Null or Nothing'",
+        "D": "It represents 'Negative and Null'"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which function is used to print a message to the console in JavaScript?",
+      "options": {
+        "A": "console.print()",
+        "B": "print()",
+        "C": "console.log()",
+        "D": "log()"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is the output of the following code?\n\n```javascript\nconsole.log(5 + '5');\n```",
+      "options": {
+        "A": "10",
+        "B": "55",
+        "C": "5 + '5'",
+        "D": "Error"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which JavaScript method is used to remove the last element from an array?",
+      "options": {
+        "A": "pop()",
+        "B": "push()",
+        "C": "removeLast()",
+        "D": "deleteLast()"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'this' keyword in JavaScript?",
+      "options": {
+        "A": "To refer to the current object",
+        "B": "To create a new object",
+        "C": "To delete an object",
+        "D": "To define a function"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which statement is used to stop the execution of a loop in JavaScript?",
+      "options": {
+        "A": "break",
+        "B": "stop",
+        "C": "exit",
+        "D": "halt"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'map()' function in JavaScript?",
+      "options": {
+        "A": "To create a new array with the results of calling a function on every element in the array",
+        "B": "To remove elements from an array",
+        "C": "To check if every element in an array passes a test",
+        "D": "To add elements to an array"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which JavaScript method is used to add one or more elements to the end of an array?",
+      "options": {
+        "A": "append()",
+        "B": "push()",
+        "C": "add()",
+        "D": "insert()"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the purpose of the 'splice()' method in JavaScript?",
+      "options": {
+        "A": "To add or remove elements from an array",
+        "B": "To reverse the order of elements in an array",
+        "C": "To sort the elements of an array",
+        "D": "To join two or more arrays"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the correct JavaScript syntax for creating a new array?",
+      "options": {
+        "A": "var myArray = [];",
+        "B": "var myArray = {};",
+        "C": "var myArray = ();",
+        "D": "var myArray = new Array();"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What does the 'typeof' operator return when used with a function?",
+      "options": {
+        "A": "function",
+        "B": "object",
+        "C": "undefined",
+        "D": "null"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'JSON.stringify()' method in JavaScript?",
+      "options": {
+        "A": "To convert a JavaScript object to a JSON string",
+        "B": "To parse a JSON string and convert it to a JavaScript object",
+        "C": "To format a JSON string for readability",
+        "D": "To validate a JSON string"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which JavaScript method is used to convert a string to uppercase letters?",
+      "options": {
+        "A": "toUpperCase()",
+        "B": "toUpper()",
+        "C": "uppercase()",
+        "D": "upperCase()"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'addEventListener()' method in JavaScript?",
+      "options": {
+        "A": "To attach an event handler function to an HTML element",
+        "B": "To remove an event handler function from an HTML element",
+        "C": "To trigger an event on an HTML element",
+        "D": "To create a new event in JavaScript"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which JavaScript method is used to return the index within the calling String object of the first occurrence of the specified value?",
+      "options": {
+        "A": "indexOf()",
+        "B": "search()",
+        "C": "find()",
+        "D": "locate()"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'filter()' method in JavaScript?",
+      "options": {
+        "A": "To create a new array with all elements that pass a test",
+        "B": "To remove elements from an array",
+        "C": "To sort the elements of an array",
+        "D": "To add elements to an array"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which JavaScript method is used to convert a string to a number?",
+      "options": {
+        "A": "parseInt()",
+        "B": "parseNumber()",
+        "C": "toNumber()",
+        "D": "numberParse()"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'concat()' method in JavaScript?",
+      "options": {
+        "A": "To join two or more arrays",
+        "B": "To create a new array with all elements that pass a test",
+        "C": "To remove elements from an array",
+        "D": "To reverse the order of elements in an array"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What does the 'instanceof' operator return in JavaScript?",
+      "options": {
+        "A": "true if an object is an instance of a specified object type",
+        "B": "false if an object is an instance of a specified object type",
+        "C": "undefined",
+        "D": "null"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which JavaScript method is used to execute a function after a specified number of milliseconds?",
+      "options": {
+        "A": "setTimeout()",
+        "B": "setInterval()",
+        "C": "executeAfter()",
+        "D": "executeIn()"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'reduce()' method in JavaScript?",
+      "options": {
+        "A": "To execute a reducer function on each element of the array",
+        "B": "To create a new array with the results of calling a function on every element in the array",
+        "C": "To remove elements from an array",
+        "D": "To add elements to an array"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which JavaScript method is used to convert a number to a string?",
+      "options": {
+        "A": "toString()",
+        "B": "stringify()",
+        "C": "convertToString()",
+        "D": "numberToString()"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'shift()' method in JavaScript?",
+      "options": {
+        "A": "To remove the first element from an array",
+        "B": "To add elements to the beginning of an array",
+        "C": "To reverse the order of elements in an array",
+        "D": "To remove the last element from an array"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which JavaScript method is used to convert a string to lowercase letters?",
+      "options": {
+        "A": "toLowerCase()",
+        "B": "toLower()",
+        "C": "lowercase()",
+        "D": "lowerCase()"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'unshift()' method in JavaScript?",
+      "options": {
+        "A": "To add elements to the beginning of an array",
+        "B": "To remove the first element from an array",
+        "C": "To reverse the order of elements in an array",
+        "D": "To remove the last element from an array"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the 'Math.random()' method in JavaScript?",
+      "options": {
+        "A": "To generate a random number between 0 (inclusive) and 1 (exclusive)",
+        "B": "To round a number to the nearest integer",
+        "C": "To return the largest integer less than or equal to a given number",
+        "D": "To return the smallest integer greater than or equal to a given number"
+      },
+      "answer": "A"
+    }
+  ]
+}

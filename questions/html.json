@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "options": {
+        "A": "Hyper Text Markup Language",
+        "B": "Hyperlinks and Text Markup Language",
+        "C": "Home Tool Markup Language",
+        "D": "Hyper Tool Markup Language"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which element is used to define the main heading in an HTML page?",
+      "options": {
+        "A": "&lt;title&gt;",
+        "B": "&lt;h1&gt;",
+        "C": "&lt;heading&gt;",
+        "D": "&lt;head&gt;"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the correct HTML element for inserting a line break?",
+      "options": {
+        "A": "&lt;lb&gt;",
+        "B": "&lt;break&gt;",
+        "C": "&lt;br&gt;",
+        "D": "&lt;newline&gt;"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is the correct HTML for adding a background color?",
+      "options": {
+        "A": "&lt;body bg='yellow'&gt;",
+        "B": "&lt;body style='background-color: yellow;'&gt;",
+        "C": "&lt;background&gt;",
+        "D": "&lt;bgcolor='yellow'&gt;"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which attribute is used to provide an image filename?",
+      "options": {
+        "A": "src",
+        "B": "img",
+        "C": "href",
+        "D": "link"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What does the 'alt' attribute in an image tag do?",
+      "options": {
+        "A": "Defines alternative text for an image",
+        "B": "Aligns the image",
+        "C": "Specifies the image width",
+        "D": "Specifies the image height"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which tag is used to create an unordered list?",
+      "options": {
+        "A": "&lt;ol&gt;",
+        "B": "&lt;li&gt;",
+        "C": "&lt;list&gt;",
+        "D": "&lt;ul&gt;"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "What does the acronym 'URL' stand for?",
+      "options": {
+        "A": "Uniform Resource Locator",
+        "B": "Universal Record Locator",
+        "C": "Uniform Resource Link",
+        "D": "Universal Resource Locator"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which tag is used to define a hyperlink?",
+      "options": {
+        "A": "&lt;a&gt;",
+        "B": "&lt;link&gt;",
+        "C": "&lt;href&gt;",
+        "D": "&lt;url&gt;"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the correct HTML for creating a table?",
+      "options": {
+        "A": "&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cell&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;",
+        "B": "&lt;table&gt;&lt;row&gt;&lt;cell&gt;Cell&lt;/cell&gt;&lt;/row&gt;&lt;/table&gt;",
+        "C": "&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Cell&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;",
+        "D": "&lt;table&gt;&lt;tr&gt;&lt;th&gt;Cell&lt;/th&gt;&lt;/tr&gt;&lt;/table&gt;"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which tag is used to define a paragraph?",
+      "options": {
+        "A": "&lt;par&gt;",
+        "B": "&lt;p&gt;",
+        "C": "&lt;paragraph&gt;",
+        "D": "&lt;para&gt;"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the correct HTML for creating a hyperlink to an email address?",
+      "options": {
+        "A": "&lt;a href='mailto:info@example.com'&gt;Send email&lt;/a&gt;",
+        "B": "&lt;a href='mail:info@example.com'&gt;Send email&lt;/a&gt;",
+        "C": "&lt;a mail='info@example.com'&gt;Send email&lt;/a&gt;",
+        "D": "&lt;a email='info@example.com'&gt;Send email&lt;/a&gt;"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+      "options": {
+        "A": "In the &lt;body&gt; section",
+        "B": "In the &lt;head&gt; section",
+        "C": "At the end of the document",
+        "D": "In the &lt;footer&gt; section"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What does the 'href' attribute do in an anchor (&lt;a&gt;) tag?",
+      "options": {
+        "A": "Specifies the URL of the linked document",
+        "B": "Specifies the target of the link",
+        "C": "Specifies the display style of the link",
+        "D": "Specifies the hover effect of the link"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the correct HTML for creating a checkbox?",
+      "options": {
+        "A": "&lt;checkbox&gt;",
+        "B": "&lt;input type='checkbox'&gt;",
+        "C": "&lt;check&gt;",
+        "D": "&lt;input type='check'&gt;"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which tag is used to add a background color in HTML?",
+      "options": {
+        "A": "&lt;bgcolor&gt;",
+        "B": "&lt;background&gt;",
+        "C": "&lt;body color='background'&gt;",
+        "D": "&lt;body style='background-color: ...'&gt;"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "What is the correct HTML for making a text input field?",
+      "options": {
+        "A": "&lt;input type='text'&gt;",
+        "B": "&lt;textbox&gt;",
+        "C": "&lt;textfield&gt;",
+        "D": "&lt;input type='input'&gt;"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which HTML element is used to define important text?",
+      "options": {
+        "A": "&lt;strong&gt;",
+        "B": "&lt;bold&gt;",
+        "C": "&lt;important&gt;",
+        "D": "&lt;em&gt;"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the correct HTML for creating a button?",
+      "options": {
+        "A": "&lt;input type='button'&gt;",
+        "B": "&lt;button&gt;Click me&lt;/button&gt;",
+        "C": "&lt;btn&gt;Click me&lt;/btn&gt;",
+        "D": "&lt;btn input='button'&gt;Click me&lt;/btn&gt;"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which tag is used to define an image in HTML?",
+      "options": {
+        "A": "&lt;image&gt;",
+        "B": "&lt;img&gt;",
+        "C": "&lt;picture&gt;",
+        "D": "&lt;graphic&gt;"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What does the 'alt' attribute in an image tag provide?",
+      "options": {
+        "A": "Defines an alternative text for an image",
+        "B": "Aligns the image",
+        "C": "Specifies the image width",
+        "D": "Specifies the image height"
+      },
+      "answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "question": "What tool do developers use to style and design web pages?",
+      "options": {
+        "A": "Text Editor",
+        "B": "Graphic Design Software",
+        "C": "Web Browser",
+        "D": "Development Environment"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the primary element used by front-end developers to build the structure of web pages?",
+      "options": {
+        "A": "Template",
+        "B": "Element",
+        "C": "Form",
+        "D": "Interface"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What term refers to the technology that enables users to interact with pages without fully reloading them?",
+      "options": {
+        "A": "Dynamic Design",
+        "B": "Interactivity",
+        "C": "AJAX",
+        "D": "Scripting"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What term refers to a web design's response to different devices' sizes and types?",
+      "options": {
+        "A": "Mobile Design",
+        "B": "Responsive Design",
+        "C": "Interface Design",
+        "D": "Adaptive Design"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the name given to the style that defines the formatting and appearance of elements on a web page?",
+      "options": {
+        "A": "Page Style",
+        "B": "Interface Style",
+        "C": "Style Sheet",
+        "D": "Element Style"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What technology enables browsers to store cached files to speed up the loading of recurring web pages?",
+      "options": {
+        "A": "Cookies",
+        "B": "Cache",
+        "C": "Session Storage",
+        "D": "Local Storage"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What term refers to the process of adjusting a website's layout to fit different screen sizes and orientations?",
+      "options": {
+        "A": "Adaptive Design",
+        "B": "Fluid Design",
+        "C": "Responsive Design",
+        "D": "Mobile Design"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Which language is primarily responsible for adding interactivity to web pages?",
+      "options": {
+        "A": "HTML",
+        "B": "CSS",
+        "C": "JavaScript",
+        "D": "PHP"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What does the acronym DOM stand for?",
+      "options": {
+        "A": "Document Object Model",
+        "B": "Design Order Manager",
+        "C": "Display Output Mechanism",
+        "D": "Data Operations Module"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the main purpose of using frameworks like Bootstrap in front-end development?",
+      "options": {
+        "A": "To simplify server-side scripting",
+        "B": "To enhance search engine optimization",
+        "C": "To facilitate rapid prototyping",
+        "D": "To optimize database performance"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What term describes the practice of organizing and writing CSS and JavaScript code to make it more maintainable and scalable?",
+      "options": {
+        "A": "Code Formatting",
+        "B": "Code Optimization",
+        "C": "Code Modularity",
+        "D": "Code Refactoring"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "What is the purpose of media queries in CSS?",
+      "options": {
+        "A": "To specify the font size of text",
+        "B": "To define the layout of the web page",
+        "C": "To retrieve data from an API",
+        "D": "To apply styles based on device characteristics"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "What term refers to the practice of writing code that adapts to different screen sizes and orientations?",
+      "options": {
+        "A": "Screen Adjustment",
+        "B": "Viewport Scaling",
+        "C": "Responsive Design",
+        "D": "Window Flexibility"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following is NOT a commonly used front-end framework?",
+      "options": {
+        "A": "React",
+        "B": "Vue",
+        "C": "Angular",
+        "D": "Django"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "What term describes the practice of designing a website's layout for mobile devices first, then scaling up to larger screens?",
+      "options": {
+        "A": "Mobile-First Design",
+        "B": "Responsive Design",
+        "C": "Adaptive Design",
+        "D": "Progressive Enhancement"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the purpose of the viewport meta tag in HTML?",
+      "options": {
+        "A": "To set the background color of the page",
+        "B": "To control the browser's viewport dimensions",
+        "C": "To specify the character encoding of the page",
+        "D": "To define the primary language of the page"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which CSS property is used to create space around an element's content, inside of any defined borders?",
+      "options": {
+        "A": "margin",
+        "B": "padding",
+        "C": "border-spacing",
+        "D": "spacing"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the purpose of the z-index property in CSS?",
+      "options": {
+        "A": "To control the spacing between lines of text",
+        "B": "To set the opacity of an element",
+        "C": "To specify the stacking order of elements",
+        "D": "To define the order of navigation links"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What term describes the process of ensuring that a website's design, layout, and functionality work well on various devices and platforms?",
+      "options": {
+        "A": "Cross-Browser Compatibility",
+        "B": "Platform Consistency",
+        "C": "Device Adaptability",
+        "D": "Responsive Design"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "options": {
+        "A": "&lt;link&gt;",
+        "B": "&lt;a&gt;",
+        "C": "&lt;href&gt;",
+        "D": "&lt;hyperlink&gt;"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the purpose of the alt attribute in HTML?",
+      "options": {
+        "A": "To specify an alternate style sheet for the page",
+        "B": "To define the alignment of an image",
+        "C": "To provide alternative text for an image",
+        "D": "To set the font size of text"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following is NOT a valid value for the display property in CSS?",
+      "options": {
+        "A": "block",
+        "B": "inline",
+        "C": "visible",
+        "D": "none"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is the purpose of the z-index property in CSS?",
+      "options": {
+        "A": "To control the spacing between lines of text",
+        "B": "To set the opacity of an element",
+        "C": "To specify the stacking order of elements",
+        "D": "To define the order of navigation links"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What term describes the process of ensuring that a website's design, layout, and functionality work well on various devices and platforms?",
+      "options": {
+        "A": "Cross-Browser Compatibility",
+        "B": "Platform Consistency",
+        "C": "Device Adaptability",
+        "D": "Responsive Design"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "options": {
+        "A": "&lt;link&gt;",
+        "B": "&lt;a&gt;",
+        "C": "&lt;href&gt;",
+        "D": "&lt;hyperlink&gt;"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the purpose of the alt attribute in HTML?",
+      "options": {
+        "A": "To specify an alternate style sheet for the page",
+        "B": "To define the alignment of an image",
+        "C": "To provide alternative text for an image",
+        "D": "To set the font size of text"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following is NOT a valid value for the display property in CSS?",
+      "options": {
+        "A": "block",
+        "B": "inline",
+        "C": "visible",
+        "D": "none"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What term describes the practice of optimizing a website's performance by reducing its file sizes and minimizing HTTP requests?",
+      "options": {
+        "A": "Web Compression",
+        "B": "HTTP Optimization",
+        "C": "Page Speed Optimization",
+        "D": "File Minification"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is the purpose of the role attribute in HTML?",
+      "options": {
+        "A": "To specify the function of an element for accessibility purposes",
+        "B": "To define the relationship between two elements",
+        "C": "To set the color of text",
+        "D": "To declare the encoding of the document"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which CSS property is used to change the size of text?",
+      "options": {
+        "A": "font-weight",
+        "B": "font-size",
+        "C": "text-size",
+        "D": "text-style"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What term refers to the practice of ensuring that a website's design and layout adapt fluidly to different screen sizes?",
+      "options": {
+        "A": "Screen Flexibility",
+        "B": "Screen Responsiveness",
+        "C": "Screen Adaptation",
+        "D": "Screen Scaling"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What does the acronym SEO stand for?",
+      "options": {
+        "A": "Software Engineering Organization",
+        "B": "Search Engine Optimization",
+        "C": "System Environment Operation",
+        "D": "Site Efficiency Optimization"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following is NOT a semantic HTML5 element?",
+      "options": {
+        "A": "&lt;header&gt;",
+        "B": "&lt;div&gt;",
+        "C": "&lt;nav&gt;",
+        "D": "&lt;footer&gt;"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the purpose of the title attribute in HTML?",
+      "options": {
+        "A": "To provide additional information about an element",
+        "B": "To specify the language of the document",
+        "C": "To define a title for the document",
+        "D": "To set the text alignment"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What term refers to the process of ensuring that a website is easily navigable and user-friendly?",
+      "options": {
+        "A": "User Interface Design",
+        "B": "User Experience Design",
+        "C": "Navigation Optimization",
+        "D": "Accessibility Enhancement"
+      },
+      "answer": "B"
+    }
+  ]
+}
